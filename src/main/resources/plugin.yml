@@ -1,0 +1,8 @@
+name: EmailAbuseReport
+version: '${project.version}'
+main: com.comugamers.sentey.addon.email.EmailReports
+api-version: 1.13
+depend: [ Sentey ]
+authors: [ Pabszito ]
+description: Automatically sends an abuse report through email to the attacker's Internet Service Provider.
+website: www.comugamers.com
